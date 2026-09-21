@@ -27,7 +27,7 @@
 ## Installation
 
 ### macOS (Universal DMG)
-1. Download **`AirCard.dmg`** from [Releases](https://github.com/mak5er/AirCard/releases).
+1. Download **`AirCard.dmg`** from this fork's [Releases](https://github.com/SheldonJoO/AirCard-zh/releases/latest) — Chinese UI, universal (Apple Silicon + Intel).
 2. Open `AirCard.dmg` and drag **`AirCard.app`** into your **Applications** folder.
 3. Fully compatible with both **Apple Silicon** and **Intel (x86)** Macs.
 
@@ -71,7 +71,7 @@
 ## Building from Source
 
 ```sh
-git clone https://github.com/mak5er/AirCard.git
+git clone https://github.com/SheldonJoO/AirCard-zh.git
 cd AirCard
 chmod +x build.sh
 ./build.sh

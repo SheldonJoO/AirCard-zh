@@ -25,7 +25,7 @@
 ## 安装
 
 ### macOS（通用 DMG）
-1. 从 [Releases](https://github.com/mak5er/AirCard/releases) 下载 **`AirCard.dmg`**。
+1. 从本仓库的 [Releases](https://github.com/SheldonJoO/AirCard-zh/releases/latest) 下载 **`AirCard.dmg`**（中文版，Universal：Apple 芯片 + Intel）。
 2. 打开 `AirCard.dmg`，将 **`AirCard.app`** 拖入 **应用程序** 文件夹。
 3. 完全兼容 **Apple 芯片** 与 **Intel (x86)** Mac。
 
@@ -69,7 +69,7 @@
 ## 从源码构建
 
 ```sh
-git clone https://github.com/mak5er/AirCard.git
+git clone https://github.com/SheldonJoO/AirCard-zh.git
 cd AirCard
 chmod +x build.sh
 ./build.sh
