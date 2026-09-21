@@ -1,0 +1,183 @@
+/* AirCard 简体中文本地化 (Simplified Chinese localization)
+ * 键名必须与 AirCardApp.swift 中的英文原文逐字对应（含标点与格式符 %lld / %@）。
+ * 该文件随中文版打包进 .app/Contents/Resources/zh-Hans.lproj/。
+ */
+
+/* ---------- 通用 / 工具栏 ---------- */
+"Remove skin" = "移除皮肤";
+"Change Skin" = "更换皮肤";
+"Drop image here" = "将图片拖到此处";
+"Assign Card Skin" = "指定卡片皮肤";
+"Click to browse or drag image" = "点击浏览或拖入图片";
+"Include in flash" = "包含在刷写中";
+"Copied!" = "已复制！";
+"Copy full hash" = "复制完整哈希";
+"Skin assigned and ready" = "皮肤已指定，准备就绪";
+"Remove from list" = "从列表移除";
+"Success!" = "成功！";
+"OK" = "确定";
+
+/* ---------- 弹窗提示 ---------- */
+"Passcode theme successfully applied!\n\nLock your iPhone (or restart) to see your new passcode keypad." = "密码主题已成功应用！\n\n锁定 iPhone（或重启）即可看到新的密码键盘。";
+"Skins successfully applied to all selected cards!\n\nPlease force-close the Wallet app on your iPhone (or reboot) to see your new designs." = "皮肤已应用到所有选中的卡片！\n\n请在 iPhone 上强制关闭「钱包」App（或重启）以查看新样式。";
+
+/* ---------- 顶部信息与关于 ---------- */
+"AirCard" = "AirCard";
+"v1.2.3" = "v1.2.3";
+"Wallet Cards & Passcode Themes" = "钱包卡片与密码键盘主题";
+"iPhone" = "iPhone";
+"%@ · iOS %@" = "%@ · iOS %@";
+"No iPhone (USB)" = "未连接 iPhone（USB）";
+"Refresh device connection" = "刷新设备连接";
+"Credits" = "致谢";
+
+/* ---------- 钱包卡片标签 ---------- */
+"Stop Scanning" = "停止扫描";
+"Scan Cards" = "扫描卡片";
+"Start Scanning" = "开始扫描";
+"Add Manually" = "手动添加";
+"Set Skin for All..." = "为全部卡片设置皮肤…";
+"Assign one skin to all selected cards" = "为所有选中的卡片指定同一张皮肤";
+"Select All" = "全选";
+"Deselect All" = "取消全选";
+"Clear All" = "全部清除";
+"Live Scanner Active" = "实时扫描已开启";
+"Double-click Side button (Apple Pay), pass Face ID, then tap your card." = "双击侧边按钮（Apple Pay），通过 Face ID 验证，然后轻点你的卡片。";
+"Done" = "完成";
+"No Cards Detected Yet" = "尚未检测到卡片";
+"Click **Scan Cards** in the toolbar above." = "点击上方工具栏中的「扫描卡片」。";
+"On your iPhone, **double-click the Side button** (Apple Pay), authenticate with **Face ID**, and **tap your card**." = "在 iPhone 上，双击侧边按钮（Apple Pay），通过 Face ID 验证，然后轻点你的卡片。";
+"Your card will be detected immediately!" = "你的卡片将被立即检测到！";
+"Add Hashes Manually" = "手动添加哈希";
+
+/* ---------- 密码键盘主题标签 ---------- */
+"Choose .passthm File..." = "选择 .passthm 文件…";
+"Choose Poster..." = "选择海报…";
+"Change Poster..." = "更换海报…";
+"Export .passthm..." = "导出 .passthm…";
+"Target:" = "目标：";
+"TelephonyUI-10 (iOS 18+)" = "TelephonyUI-10（iOS 18+）";
+"TelephonyUI-9 (iOS 16–17)" = "TelephonyUI-9（iOS 16–17）";
+"TelephonyUI-8 (iOS 14–15)" = "TelephonyUI-8（iOS 14–15）";
+"Universal (All 8, 9, 10)" = "通用（全部 8、9、10）";
+"Clear Theme" = "清除主题";
+"Lock Screen Keypad Preview" = "锁屏密码键盘预览";
+"Custom Theme Loaded" = "已加载自定义主题";
+"Passcode Theme File" = "密码键盘主题文件";
+"%lld artwork assets loaded · Ready to flash to iPhone" = "%lld 个素材已加载 · 准备刷写到 iPhone";
+"Edit in Creator" = "在创建器中编辑";
+"Change..." = "更改…";
+"Clear" = "清除";
+"Drop .passthm file here" = "将 .passthm 文件拖到此处";
+"Supports .passthm, .passtheme, or .zip packages from Cowabunga or Nugget" = "支持来自 Cowabunga 或 Nugget 的 .passthm、.passtheme 或 .zip 压缩包";
+"Choose File..." = "选择文件…";
+"Interactive iPhone Lock Screen Preview" = "可交互的 iPhone 锁屏预览";
+"Drag dialer to pan · Use slider to zoom" = "拖动拨号盘平移 · 使用滑块缩放";
+
+/* ---------- 主题创建器 ---------- */
+"Poster Artwork" = "海报素材";
+"Artwork Loaded" = "素材已加载";
+"Remove" = "移除";
+"Drop poster or wallpaper here" = "将海报或壁纸拖到此处";
+"Choose Image..." = "选择图片…";
+"Slicing Style" = "切片方式";
+"Seamless Poster" = "无缝海报";
+"Circle Buttons" = "圆形按钮";
+"Artwork is clipped into individual circular button icons." = "素材会被裁切为独立的圆形按钮图标。";
+"Seamless artwork spans across dialer keys without circular cuts (Adobe Dog style)." = "无缝素材跨拨号键铺开，不做圆形裁切（Adobe Dog 风格）。";
+"Zoom & Framing" = "缩放与构图";
+"Reset Position" = "重置位置";
+"Zoom" = "缩放";
+"Drag anywhere on the dialer preview to reposition" = "在拨号预览上任意拖动以重新定位";
+"Deselect Key %@" = "取消选择按键 %@";
+"Key %@ Framing" = "按键 %@ 构图";
+"Reset" = "重置";
+"Drag Key %@ on dialer preview to reposition" = "在拨号预览上拖动按键 %@ 以重新定位";
+"Change Image..." = "更改图片…";
+"Click any key on the dialer to select it, pan the image, adjust zoom, or drop files." = "点击拨号盘上任意按键即可选择、平移图片、调整缩放或拖入文件。";
+"%lld of 10 keys configured" = "已配置 %lld / 10 个按键";
+"Fill from Poster" = "从海报填充";
+"Clear All Keys" = "清除全部按键";
+"Change Key %@..." = "更改按键 %@…";
+"Reset Position & Zoom" = "重置位置与缩放";
+"Clear Key %@" = "清除按键 %@";
+
+/* ---------- 锁屏模拟拨号盘 ---------- */
+"Enter Passcode" = "输入密码";
+"Emergency" = "紧急";
+"Cancel" = "取消";
+
+/* ---------- 刷写 / 语言目标 ---------- */
+"Flash & Language Target" = "刷写与语言目标";
+"System Language:" = "系统语言：";
+"Font Weight / Style:" = "字重 / 样式：";
+"Universal mode flashes ~600 files for all languages & Bold text. Selecting a specific language (e.g. Ukrainian) speeds up flashing dramatically." = "通用模式会为所有语言与加粗文字刷写约 600 个文件。选择特定语言（例如乌克兰语）可大幅加快刷写速度。";
+"Fast mode selected: only targets %@ with %@." = "已选择快速模式：仅针对 %@ 与 %@ 刷写。";
+
+/* ---------- 活动日志 ---------- */
+"Activity Log" = "活动日志";
+"%lld%" = "进度 %lld%%";
+"Theme Creator · %lld of 10 keys configured · Target: %@" = "主题创建器 · 已配置 %lld / 10 个按键 · 目标：%@";
+"Theme Creator · Import a poster or drop icons onto keys" = "主题创建器 · 导入海报或将图标拖到按键上";
+"%lld source assets loaded · Target: %@" = "%lld 个源素材已加载 · 目标：%@";
+"No .passthm loaded · Select a theme package to flash" = "未加载 .passthm · 请选择一个要刷写的主题包";
+"%lld of %lld cards selected · %lld ready to flash" = "已选中 %lld / %lld 张卡片 · %lld 张可刷写";
+"Log" = "日志";
+"Flashing Passcode..." = "正在刷写密码主题…";
+"Flash to iPhone" = "刷写到 iPhone";
+"Flash Passcode Theme" = "刷写密码主题";
+"Flashing Cards..." = "正在刷写卡片…";
+"Flash Skins (%lld Cards)" = "刷写皮肤（%lld 张卡片）";
+"Flash Skins" = "刷写皮肤";
+
+/* ---------- 关于 / 致谢 ---------- */
+"By" = "作者";
+"&" = "&";
+"Apple Wallet Skins & Passcode Themes for iOS 18+" = "面向 iOS 18+ 的 Apple 钱包皮肤与密码键盘主题";
+"Developer:" = "开发者：";
+"Core Exploit:" = "核心漏洞：";
+"airlift (AirTraffic sync escape)" = "airlift（AirTraffic 同步逃逸）";
+"Passcode Themes:" = "密码键盘主题：";
+".passthm standard (Cowabunga / Nugget)" = ".passthm 标准（Cowabunga / Nugget）";
+"Close" = "关闭";
+"Add Card Hashes Manually" = "手动添加卡片哈希";
+"Paste one or more card hashes (separated by spaces, commas, or newlines):" = "粘贴一个或多个卡片哈希（以空格、逗号或换行分隔）：";
+"Add to List" = "添加到列表";
+
+/* ---------- 枚举展示文案（rawValue 作为键，经由 NSLocalizedString 查表）---------- */
+
+/* AppTab */
+"Apple Wallet" = "苹果钱包";
+"Passcode (.passthm)" = "密码键盘主题 (.passthm)";
+
+/* PasscodeTabMode */
+"Apply .passthm" = "应用 .passthm";
+"Theme Creator" = "主题创建器";
+
+/* CreatorSubMode */
+"Poster Slice (Puzzle)" = "海报切片（拼图）";
+"Individual Keys" = "单独按键";
+
+/* PasscodeLanguageTarget */
+"All Languages (Universal)" = "全部语言（通用）";
+"Ukrainian (uk)" = "乌克兰语 (uk)";
+"Russian (ru)" = "俄语 (ru)";
+"English (en)" = "英语 (en)";
+"Other / Fallback" = "其他 / 兜底";
+"Spanish (es)" = "西班牙语 (es)";
+"German (de)" = "德语 (de)";
+"French (fr)" = "法语 (fr)";
+"Polish (pl)" = "波兰语 (pl)";
+"Italian (it)" = "意大利语 (it)";
+"Portuguese (pt)" = "葡萄牙语 (pt)";
+"Turkish (tr)" = "土耳其语 (tr)";
+"Japanese (ja)" = "日语 (ja)";
+"Korean (ko)" = "韩语 (ko)";
+"Chinese (zh)" = "中文 (zh)";
+"Arabic (ar)" = "阿拉伯语 (ar)";
+"Hebrew (he)" = "希伯来语 (he)";
+
+/* PasscodeBoldTarget */
+"Universal (Regular + Bold)" = "通用（常规 + 加粗）";
+"Bold Text Only (Fast)" = "仅加粗文字（快速）";
+"Regular Font Only (Fast)" = "仅常规字体（快速）";

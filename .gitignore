@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+*~
+build/
+.tmp/
+*.dmg
+.serena/
