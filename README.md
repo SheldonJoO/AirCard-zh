@@ -4,10 +4,6 @@
 > 已通过 iOS 27 正式版测试。
 > 由 `airlift` AirTraffic 同步漏洞驱动。
 
-<p align="left">
-  <a href="https://www.paypal.com/donate/?hosted_button_id=98QRTC2HFRA4Y"><img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=flat-square&logo=paypal" alt="通过 PayPal 捐赠" /></a>
-</p>
-
 > [!NOTE]
 > 本仓库为 [Mak5er/AirCard](https://github.com/mak5er/AirCard) 的**简体中文翻译版**，界面与文档均为中文。代码逻辑与原项目保持一致，仅新增了中文本地化层，并已将默认显示语言设为简体中文。原项目作者与许可不变。
 
@@ -94,14 +90,16 @@ chmod +x build.sh
 
 ---
 
-## 支持
+## 支持原作者
 
-如果你觉得 AirCard 有用，可以通过以下方式支持后续开发：
+本中文版是纯粹的本地化分支，**不做任何捐赠收款**。所有功劳都属于上游作者。
 
-- **PayPal**：[通过 PayPal 捐赠](https://www.paypal.com/donate/?hosted_button_id=98QRTC2HFRA4Y)
-- **TON**：`UQBm9KPhtMw-XVVjirUoa09wzrlyWsbeZhKfefl1Uw-qNZ-r`
-- **USDT (TRC20)**：`TDkDMCyjYxgvkWUnQiF5Erk2RyPQMT6G1n`
-- **USDT / BNB (BEP20)**：`0x0954dc491c502849d04956ef74634aa5931a08e8`
+如果你觉得 AirCard 有用，请到**原项目**去支持他们的后续开发：
+
+- 上游仓库：[github.com/mak5er/AirCard](https://github.com/mak5er/AirCard)
+- 开发者：[@mak5er](https://github.com/mak5er) · [@Lumid-Off](https://github.com/Lumid-Off)
+
+> 本仓库已移除原 README 中的全部捐赠渠道（PayPal / TON / USDT）。需要支持作者请走上游，不要向本分支的任何地址付款。
 
 ---
 

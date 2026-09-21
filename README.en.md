@@ -4,9 +4,10 @@
 > **Tested on iOS 27 release.**
 > Powered by the `airlift` AirTraffic sync exploit.
 
-<p align="left">
-  <a href="https://www.paypal.com/donate/?hosted_button_id=98QRTC2HFRA4Y"><img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=flat-square&logo=paypal" alt="Donate with PayPal" /></a>
-</p>
+> [!NOTE]
+> This repository is a **Simplified Chinese localization** of [mak5er/AirCard](https://github.com/mak5er/AirCard).
+> It is a translation-only fork: no donation addresses are kept here. All credit belongs to the upstream authors —
+> please support them through the original repository.
 
 ---
 
@@ -89,11 +90,13 @@ This builds universal binaries (`arm64` + `x86_64`), bundles dependencies into `
 
 ---
 
-## Support
+## Support the original author
 
-If you find AirCard useful, you can support future development:
+This Chinese fork is translation-only and **does not collect donations**. All the credit goes to the upstream authors.
+To support their continued development, please use the original repository:
 
-- **PayPal**: [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=98QRTC2HFRA4Y)
-- **TON**: `UQBm9KPhtMw-XVVjirUoa09wzrlyWsbeZhKfefl1Uw-qNZ-r`
-- **USDT (TRC20)**: `TDkDMCyjYxgvkWUnQiF5Erk2RyPQMT6G1n`
-- **USDT / BNB (BEP20)**: `0x0954dc491c502849d04956ef74634aa5931a08e8`
+- Upstream: [github.com/mak5er/AirCard](https://github.com/mak5er/AirCard)
+- Developers: [@mak5er](https://github.com/mak5er) · [@Lumid-Off](https://github.com/Lumid-Off)
+
+> All donation channels from the original README (PayPal / TON / USDT) have been removed here.
+> Never send payment to any address found in this fork.
